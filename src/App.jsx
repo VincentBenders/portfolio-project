@@ -19,7 +19,7 @@ const router = createBrowserRouter([
       },
     ],
   },
-], { basename: "/your-repo-name" }
+], { basename: "/portfolio-project" }
 );
 
 function App() {

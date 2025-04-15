@@ -8,7 +8,7 @@ export default class Home extends Component {
       <>
         <div className="font-mono text-[#f6f7f8] h-screen flex items-center bg-[#001427]">
           <img
-            src="/portfolio-project/photo.webp"
+            src={photo}
             className="max-h-[700px] relative mx-auto rounded-lg overflow-hidden"
             alt="Example"
           />

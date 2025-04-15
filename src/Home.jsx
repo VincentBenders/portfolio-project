@@ -1,5 +1,5 @@
 import { Component } from "react";
-import photo from 'photo.png';
+import photo from '/photo.png';
 import React from "react";
 
 export default class Home extends Component {

@@ -1,5 +1,5 @@
 import { Component } from "react";
-import photo from '/portfolio-project/photo.png';
+import photo from 'assets/photo.png';
 import React from "react";
 
 export default class Home extends Component {

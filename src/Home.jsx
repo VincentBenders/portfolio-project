@@ -1,5 +1,5 @@
 import { Component } from "react";
-import photo from '/photo.png';
+import photo from '/portfolio-project/photo.png';
 import React from "react";
 
 export default class Home extends Component {
@@ -50,13 +50,13 @@ export default class Home extends Component {
               <p>React</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[70%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[80%]"></div>
             </div>
             <div>
               <p>PHP</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[80%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[85%]"></div>
             </div>
             <div>
               <p>Laravel</p>

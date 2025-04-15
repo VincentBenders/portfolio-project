@@ -10,13 +10,15 @@ const router = createBrowserRouter([
     element: <Layout />,
     children: [
       {
-        path: "/portfolio",
-        element: <Portfolio />,
-      },
-      {
         path: "/",
         element: <Home />,
       },
+      {
+        
+        path: "/portfolio",
+        element: <Portfolio />,
+      },
+      
     ],
   },
 ], { basename: "/portfolio-project" }

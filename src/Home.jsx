@@ -25,6 +25,18 @@ export default class Home extends Component {
               topics. The best way to gain experience is by trying and i will
               try as many times as needed to succeed.
             </p>
+            <div className="mt-10">
+                <p className="mb-5 font-normal text-gray-700 dark:text-[#f6f7f8]">
+                  <Link
+                    className={
+                      "bg-blue-500 hover:bg-blue-700 text-[#f6f7f8] font-bold py-2 px-4 rounded"
+                    }
+                    to={"https://www.linkedin.com/in/vincent-bendersvincent-benders-software-developer/"}
+                  >
+                    My LinkedIn
+                  </Link>
+                </p>
+              </div>
           </section>
           <section className="bg-[#12304f] w-96 p-8 rounded-2xl shadow-lg max-w-2xl mx-auto">
             <h2 className="text-3xl">Skills</h2>

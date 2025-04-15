@@ -5,8 +5,8 @@ function Portfolio() {
   return (
     <>
       <div className="bg-[#001427]">
-        <h2 className="font-bold flex justify-center text-8xl p-5  text-[#f6f7f8]">
-          Mijn Portfolio
+        <h2 className="font-mono flex justify-center text-8xl p-5  text-[#f6f7f8]">
+          My Portfolio
         </h2>
 
         <section className="h-screen justify-evenly flex items-center p-5 pt-0 pb-20 ">

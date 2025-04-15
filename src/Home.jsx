@@ -26,7 +26,7 @@ export default class Home extends Component {
               topics. The best way to gain experience is by trying and i will
               try as many times as needed to succeed.
             </p>
-            {/* <div className="mt-10">
+            <div className="mt-10">
                 <p className="mb-5 font-normal text-gray-700 dark:text-[#f6f7f8]">
                   <Link
                     className={
@@ -37,7 +37,7 @@ export default class Home extends Component {
                     My LinkedIn
                   </Link>
                 </p>
-              </div> */}
+              </div>
           </section>
           <section className="bg-[#12304f] w-96 p-8 rounded-2xl shadow-lg max-w-2xl mx-auto">
             <h2 className="text-3xl">Skills</h2>

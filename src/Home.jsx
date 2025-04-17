@@ -26,6 +26,12 @@ export default class Home extends Component {
               topics. The best way to gain experience is by trying and i will
               try as many times as needed to succeed.
             </p>
+            <p className="mt-2 text-lg ">
+              I am currently looking for a internship in software development or backend development for web. 
+              My current experience from school and internships has been mostly in webdevelopment.
+              There are more challenges out there than i can see. 
+              I simply ask for the opertunities that you can give me. 
+            </p>
             <div className="mt-10">
                 <p className="mb-5 font-normal text-gray-700 dark:text-[#f6f7f8]">
                   <Link

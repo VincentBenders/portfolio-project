@@ -72,6 +72,12 @@ export default class Home extends Component {
               <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[80%]"></div>
             </div>
             <div>
+              <p>ExpressJS</p>
+            </div>
+            <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[80%]"></div>
+            </div>
+            <div>
               <p>PHP</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">

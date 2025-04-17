@@ -45,25 +45,25 @@ export default class Home extends Component {
                 </p>
               </div>
           </section>
-          <section className="bg-[#12304f] w-96 p-8 rounded-2xl shadow-lg max-w-2xl mx-auto">
-            <h2 className="text-3xl">Skills</h2>
+          <section className="bg-[#12304f] text-[#f6f7f8] w-96 p-8 rounded-2xl shadow-lg max-w-2xl mx-auto">
+            <h2 className="text-3xl ">Skills</h2>
             <div>
               <p>HTML</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[90%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#DD2D4A] w-[90%]"></div>
             </div>
             <div>
               <p>CSS/SASS</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[90%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4381c1] w-[90%]"></div>
             </div>
             <div>
               <p>Javascript</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[85%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4D6CFA] w-[85%]"></div>
             </div>
             <div>
               <p>React</p>

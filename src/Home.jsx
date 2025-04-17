@@ -36,7 +36,7 @@ export default class Home extends Component {
                 <p className="mb-5 font-normal text-gray-700 dark:text-[#f6f7f8]">
                   <Link
                     className={
-                      "bg-blue-500 hover:bg-blue-700 text-[#f6f7f8] font-bold py-2 px-4 rounded"
+                      "bg-[#DD2D4A] hover:bg-[#b84256] text-[#f6f7f8] font-bold py-2 px-4 rounded"
                     }
                     to={"https://www.linkedin.com/in/vincent-bendersvincent-benders-software-developer/"}
                   >

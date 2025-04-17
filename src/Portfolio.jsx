@@ -37,7 +37,7 @@ function Portfolio() {
                 <p className="mb-5 font-normal text-gray-700 dark:text-[#f6f7f8]">
                   <Link
                     className={
-                      "bg-blue-500 hover:bg-blue-700 text-[#f6f7f8] font-bold py-2 px-4 rounded"
+                      "bg-[#DD2D4A] hover:bg-[#b84256] text-[#f6f7f8] font-bold py-2 px-4 rounded"
                     }
                     to={"https://github.com/VincentBenders/react-cocktails"}
                   >
@@ -47,7 +47,7 @@ function Portfolio() {
                 <p className=" font-normal text-gray-700 dark:text-[#f6f7f8]">
                   <Link
                     className={
-                      "bg-blue-500 hover:bg-blue-700 text-[#f6f7f8] font-bold py-2 px-4 rounded"
+                      "bg-[#DD2D4A] hover:bg-[#b84256] text-[#f6f7f8] font-bold py-2 px-4 rounded"
                     }
                     to={"https://github.com/VincentBenders/restful-cocktail"}
                   >
@@ -83,7 +83,7 @@ function Portfolio() {
                 <p className="mb-5 font-normal text-gray-700 dark:text-[#f6f7f8]">
                   <Link
                     className={
-                      "bg-blue-500 hover:bg-blue-700 text-[#f6f7f8] font-bold py-2 px-4 rounded"
+                      "bg-[#DD2D4A] hover:bg-[#b84256] text-[#f6f7f8] font-bold py-2 px-4 rounded"
                     }
                     to={"https://github.com/VincentBenders/prg5"}
                   >
@@ -116,7 +116,7 @@ function Portfolio() {
                 <p className=" font-normal text-gray-700 dark:text-[#f6f7f8]">
                   <Link
                     className={
-                      "bg-blue-500 hover:bg-blue-700 text-[#f6f7f8] font-bold py-2 px-4 rounded"
+                      "bg-[#DD2D4A] hover:bg-[#b84256] text-[#f6f7f8] font-bold py-2 px-4 rounded"
                     }
                     to={"https://github.com/SEVerhaak/TEAM-9-TLE1/tree/develop"}
                   >
@@ -152,7 +152,7 @@ function Portfolio() {
                 <p className="mb-5 font-normal text-gray-700 dark:text-[#f6f7f8]">
                   <Link
                     className={
-                      "bg-blue-500 hover:bg-blue-700 text-[#f6f7f8] font-bold py-2 px-4 rounded"
+                      "bg-[#DD2D4A] hover:bg-[#b84256] text-[#f6f7f8] font-bold py-2 px-4 rounded"
                     }
                     to={"https://github.com/VincentBenders/hotspots"}
                   >

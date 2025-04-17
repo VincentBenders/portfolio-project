@@ -13,17 +13,17 @@ export default class Layout extends Component {
         >
           <Link
             className={
-              "bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded"
+              "bg-[#DD2D4A] hover:bg-[#b84256] text-white font-bold py-2 px-4 border rounded"
             }
-            to={"/"}
+            to={"/portfolio"}
           >
             Portfolio
           </Link>
           <Link
             className={
-              "bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded"
+              "bg-[#DD2D4A] hover:bg-[#b84256] text-white font-bold py-2 px-4 border rounded"
             }
-            to={"/about"}
+            to={"/"}
           >
             About Me
           </Link>

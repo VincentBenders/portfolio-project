@@ -16,7 +16,7 @@ function Portfolio() {
               <img
                 className="rounded-t-lg"
                 src={
-                  "https://demitris.com/cdn/shop/articles/image1_eb503a8a-f1e9-4bb0-ac55-fd0942ae5c95.png?v=1648496730"
+                  "https://img.delicious.com.au/F_C2-w6_/w759-h506-cfill/del/2015/11/summer-cocktails-24374-3.jpg"
                 }
                 alt=""
               />

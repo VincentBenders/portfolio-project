@@ -13,7 +13,7 @@ export default class Layout extends Component {
         >
           <Link
             className={
-              "bg-[#DD2D4A] hover:bg-[#b84256] text-white font-bold py-2 px-4 border rounded"
+              "bg-[#DD2D4A] hover:bg-[#b84256] text-white font-bold py-2 px-4 rounded"
             }
             to={"/portfolio"}
           >
@@ -21,7 +21,7 @@ export default class Layout extends Component {
           </Link>
           <Link
             className={
-              "bg-[#DD2D4A] hover:bg-[#b84256] text-white font-bold py-2 px-4 border rounded"
+              "bg-[#DD2D4A] hover:bg-[#b84256] text-white font-bold py-2 px-4 rounded"
             }
             to={"/"}
           >

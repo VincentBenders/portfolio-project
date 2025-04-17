@@ -44,6 +44,10 @@ export default class Home extends Component {
                   </Link>
                 </p>
               </div>
+              <p className="mt-4 text-lg ">
+              In my spare time i like to play video games, magic the gathering, piano or hanging out with friends. 
+              My hobbies change from time to time, it keeps thing fresh and fun! 
+            </p>
           </section>
           <section className="bg-[#12304f] text-[#f6f7f8] w-96 p-8 rounded-2xl shadow-lg max-w-2xl mx-auto">
             <h2 className="text-3xl ">Skills</h2>

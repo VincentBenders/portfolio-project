@@ -51,13 +51,13 @@ export default class Home extends Component {
               <p>HTML</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#DD2D4A] w-[90%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4D6CFA] w-[90%]"></div>
             </div>
             <div>
               <p>CSS/SASS</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4381c1] w-[90%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4D6CFA] w-[90%]"></div>
             </div>
             <div>
               <p>Javascript</p>
@@ -69,37 +69,37 @@ export default class Home extends Component {
               <p>React</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[80%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4D6CFA] w-[80%]"></div>
             </div>
             <div>
               <p>ExpressJS</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[80%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4D6CFA] w-[80%]"></div>
             </div>
             <div>
               <p>PHP</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[85%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4D6CFA] w-[85%]"></div>
             </div>
             <div>
               <p>Laravel</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[70%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4D6CFA] w-[70%]"></div>
             </div>
             <div>
               <p>C#</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[40%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4D6CFA] w-[40%]"></div>
             </div>
             <div>
               <p>Unity</p>
             </div>
             <div className="w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700">
-              <div className="h-4 bg-blue-600 rounded-full dark:bg-blue-500 w-[50%]"></div>
+              <div className="h-4 bg-blue-600 rounded-full dark:bg-[#4D6CFA] w-[50%]"></div>
             </div>
           </section>
         </div>
